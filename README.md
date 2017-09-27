@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WordPress on OpenShift #
 
 WordPress is an open source, semantic, blogging and content management 
@@ -93,3 +94,6 @@ You'll be prompted to set an admin password and name your WordPress site the fir
 page.
 
 [template]: https://hub.openshift.com/quickstarts/1-wordpress-4
+=======
+# blog_php
+>>>>>>> 089cdf082385f4bb2ea3ae5ebc2c31e6dac76d5a
